@@ -5,3 +5,4 @@ A Test GitHub Repo
 
 1.Clone
 2.Use
+3.Delete
